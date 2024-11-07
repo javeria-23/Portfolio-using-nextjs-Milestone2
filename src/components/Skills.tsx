@@ -6,7 +6,7 @@ const Skills = () => {
     <div className='grid md:grid-cols-2 gap-20 items-center'>
       <div data-aos="zoom-in-up">
         <h2 className='text-4xl md:text-5xl' >Technologies I work with</h2>
-      <p className='text-gray-500 pt-2'>I'm a web developer skilled in designing and building engaging, responsive websites. I work with HTML, CSS, JavaScript, and various frameworks to develop user-centered, efficient web solutions. My focus is on clean code, performance, and making sure each site functions smoothly across all devices.</p>
+      <p className='text-gray-500 pt-2'>Iam a web developer skilled in designing and building engaging, responsive websites. I work with HTML, CSS, JavaScript, and various frameworks to develop user-centered, efficient web solutions. My focus is on clean code, performance, and making sure each site functions smoothly across all devices.</p>
       </div>
       <div>
         <div className='grid grid-cols-2 text-accent text-3xl sm:text-4xl'>
