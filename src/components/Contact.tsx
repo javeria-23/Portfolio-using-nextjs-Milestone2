@@ -13,11 +13,11 @@ const Contact = () => {
                 </p>
                 <div className='flex gap-3 items-center' data-aos="zoom-in-up">
                     <AiOutlineMail size={30}/>
-                    tariq1980pk@gmail.com
+                    javeria2005pk@gmail.com
                 </div>
                 <div className='flex gap-3 items-center' data-aos="zoom-in-up">
                     <BsTelephone size={30}/> 
-                    0345-6125703
+                    0311-2367681
                 </div>
             </div>
             <div className='space-y-8' >
